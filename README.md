@@ -20,4 +20,6 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [lpt](files/lpt.md)
 * [cmgpdg](files/cmgpdg.md)
 * [dpg](files/dpg.md)
+* [dpg](files/dpg.md)
+* [oeb](files/oeb.md)
 * [domin](files/domin.md)
