@@ -1,4 +1,5 @@
 <h2>¿Qué asignatura te gusta más?</h2>
+
 1. **FOL**
 
 2. **IWEB**
@@ -6,6 +7,7 @@
 <h2>¿Por qué?</h2>
 
 1. Porque la tengo convalidada y puedo echarme una siestecita de una hora en casa
+
 2. Porque me mola la páginita que hice el año pasado con su script que sube los cambios solos a github:
 
 		read -p "¿Has añadido archivos nuevos? (y/n) " nuevos
