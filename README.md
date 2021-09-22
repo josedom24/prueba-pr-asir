@@ -18,4 +18,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [jdmr](files/jdmr.md)
 * [ada](files/ada.md)
 * [lpt](files/lpt.md)
-* [domin](file/domin.md)
+* [domin](files/domin.md)
