@@ -16,4 +16,12 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 **¿Qué asignatura te gusta más? Y ¿por qué?**
 
 * [jdmr](files/jdmr.md)
+<<<<<<< HEAD
 * [agv](files/agv.md)
+=======
+* [ada](files/ada.md)
+* [lpt](files/lpt.md)
+* [cmgpdg](files/cmgpdg.md)
+
+* [dpg](files/dpg.md)
+>>>>>>> 5c1692530f8b901d8d29920bdac65345ebd52cc5
