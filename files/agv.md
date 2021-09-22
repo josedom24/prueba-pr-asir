@@ -1,6 +1,6 @@
 <h2>¿Qué asignatura te gusta más?</h2>
 
-1. **FOL**
+1. **Empresas**
 
 2. **IWEB**
 
