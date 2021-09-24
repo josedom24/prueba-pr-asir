@@ -26,3 +26,5 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [jrm](files/jrm.md)
 * [ajr](files/ajr.md)
 * [ale](files/ale.md)
+* [crm](files/crm.md)
+
