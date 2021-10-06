@@ -32,9 +32,15 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [jcb](files/jcb.md)
 * [acd](files/acd.md)
 * [mca](files/mca.md)
+<<<<<<< HEAD
 * [agv](files/agv.md)
 * [mjbp](files/mjbp.md)
+* [jml](files/jml.md)
 
 ---
 
 FIN
+=======
+* [jml](files/jml.md)
+* [agv](files/agv.md)
+>>>>>>> 2c2d087404e40d47c9c4ae4110dedb963bba71b5
