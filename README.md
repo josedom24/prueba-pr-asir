@@ -35,7 +35,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [agv](files/agv.md)
 * [mjbp](files/mjbp.md)
 * [jml](files/jml.md)
-
----
-
-FIN
+* [agv](files/agv.md)
