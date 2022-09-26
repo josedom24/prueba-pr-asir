@@ -21,6 +21,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [flg](files/flg.md)
 * [rrm](files/rrm.md)
 * [jjhc](files/jjhc.md)
+* [jjas](files/jjas.md)
 * [ipc](files/ipc.md)
 
 
