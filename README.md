@@ -25,4 +25,3 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [ipc](files/ipc.md)
 * [amd](files/amd.md)
 
->>>>>>> 7282d1f40e8b946a1ccc8e20dc4867eee31d838d
