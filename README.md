@@ -26,3 +26,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [amd](files/amd.md)
 * [ara](files/ara.md)
 * [mjar](files/mjar.md)
+* [gmg](files/gmg.md)
