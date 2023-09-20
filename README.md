@@ -16,21 +16,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 **¿Qué asignatura te gusta más? Y ¿por qué?**
 
 * [jdmr](files/jdmr.md)
-* [cgpdg](files/cgpdg.md)
-* [drg](files/drg.md)
-* [flg](files/flg.md)
-* [rrm](files/rrm.md)
-* [jjhc](files/jjhc.md)
-* [jjas](files/jjas.md)
-* [ipc](files/ipc.md)
-* [amd](files/amd.md)
-* [ara](files/ara.md)
-* [mjar](files/mjar.md)
-* [gmg](files/gmg.md)
-* [oll](files/oll.md)
-* [afm](files/afm.md)
-* [apg](files/apg.md)
-* [asp](files/asp.md)
-* [bndm](files/bndm.md)
-* [pdu](files/pdu.md)
-* [amp](files/amp.md)
+
