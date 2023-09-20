@@ -1,6 +1,6 @@
 # Repositorio Prueba
 
-## Repositorio para realizar ej ejercicio de Pull Request
+## Repositorio para realizar el ejercicio de Pull Request
 
 Que tienes que hacer:
 
