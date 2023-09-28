@@ -20,9 +20,13 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [jmdp](files/jmdp.md)
 =======
 
+* [mzg](files/mzg.md)
+
 * [mfe](files/mfe.md)
 
 * [fjcd](files/fjcd.md)
+
+* [mamn](file/mamn.md)
 
 * [gpc](files/gpc.md)
 <<<<<<< HEAD
@@ -30,4 +34,8 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 =======
 
 * [jmfa](files/jmfa.md)
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
+
 >>>>>>> upstream/main
