@@ -22,3 +22,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [fjcd](files/fjcd.md)
 
 * [mamn](file/mamn.md)
+
+* [gpc](files/gpc.md)
+
+* [jmfa](files/jmfa.md)
