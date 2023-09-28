@@ -21,6 +21,11 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [fjcd](files/fjcd.md)
 
+<<<<<<< HEAD
+* [mzg](files/mzg.md)
+
+=======
+>>>>>>> upstream/main
 * [gpc](files/gpc.md)
 
 * [jmfa](files/jmfa.md)
