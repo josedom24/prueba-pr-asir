@@ -28,4 +28,3 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [gpc](files/gpc.md)
 
 * [jmfa](files/jmfa.md)
-
