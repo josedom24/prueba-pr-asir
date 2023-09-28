@@ -17,6 +17,8 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [jdmr](files/jdmr.md)
 
+* [mzg](files/mzg.md)
+
 * [mfe](files/mfe.md)
 
 * [fjcd](files/fjcd.md)
@@ -26,3 +28,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [gpc](files/gpc.md)
 
 * [jmfa](files/jmfa.md)
+
