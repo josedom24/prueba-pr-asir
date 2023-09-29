@@ -31,6 +31,8 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [jcrc](files/jcrc.md)
 
+* [jdh](files/jdh.md)
+
 * [opdls](files/opdls.md)
 
 * [jacg](files/jacg.md)
@@ -40,3 +42,6 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [fgv](files/fgv.md)
 
 * [jmdp](files/jmdp.md)
+
+
+* [jdh](files/jdh.md)
