@@ -17,12 +17,22 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [jdmr](files/jdmr.md)
 
+* [mzg](files/mzg.md)
+
 * [mfe](files/mfe.md)
 
 * [fjcd](files/fjcd.md)
 
+* [mamn](file/mamn.md)
+
 * [gpc](files/gpc.md)
 
 * [jmfa](files/jmfa.md)
+
+* [jcrc](files/jcrc.md)
+
+* [opdls](files/opdls.md)
+
+* [jacg](files/jacg.md)
 
 * [afsr](files/afsr.md)
