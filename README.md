@@ -22,3 +22,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [lgr](files/lgr.md)
 * [fjhm](files/fjhm.md)
 * [irb](files/irb.md)
+* [lgr](files/lgr.md)
