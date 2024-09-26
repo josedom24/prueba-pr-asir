@@ -6,4 +6,4 @@
 
 **Alejandro Herrera Jiménez**
 
-[Visitar la página de José Domingo](https://www.josedomingo.org/pledin/)
+[Visitar la página web de José Domingo](https://www.josedomingo.org/pledin/)
