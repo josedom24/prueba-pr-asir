@@ -26,3 +26,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [ahj](files/ahj.md)
 * [jjcr](files/jjcr.md)
 * [pmh](files/pmh.md)
+* [lgr](files/lgr.md)
