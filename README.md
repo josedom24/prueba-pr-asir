@@ -33,3 +33,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [jcmm](files/jcmm.md)
 * [gpc](files/gpc.md)
 * [jacg](files/jacg.md)
+* [amg](files/amg.md)
